@@ -4,3 +4,6 @@
 #### Atividade 15
 ##### Nicolas Mady - 22352932
 ###### [Overleaf](https://www.overleaf.com/read/wxbcqsnnbptn#58b5d5)
+
+- `docs/`: relatório e slides
+- `src/`: scripts simulando os 4 algoritmos de grafo destacados no relatório e nos slides
