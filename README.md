@@ -6,5 +6,5 @@
 ###### [Overleaf](https://www.overleaf.com/read/wxbcqsnnbptn#58b5d5)
 
 - `docs/`: artigo e slides
-- `imgs/`: imagens geradas pelos scripts .py
-- `src/`: scripts .py simulando os 4 algoritmos de grafo destacados no artigo e nos slides
+- `imgs/`: imagens geradas pelos scripts
+- `src/`: scripts simulando os 4 algoritmos de grafo destacados no artigo e nos slides
