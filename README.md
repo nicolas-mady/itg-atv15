@@ -7,4 +7,4 @@
 
 - `docs/`: relatório e slides
 - `imgs/`: imagens geradas pelos scripts .py
-- `src/`: scripts .py simulando os 4 algoritmos de grafo destacados no relatório e nos slides
+- `src/`: scripts .py simulando os 4 algoritmos de grafo destacados no artigo e nos slides
